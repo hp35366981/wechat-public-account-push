@@ -24,7 +24,7 @@ export const config = {
    *   }, 
    * ]
    */
-  USERS: ["oEWKd5_pfNvGxdI6M_luNNcEK130"]    {
+  USERS: [""]    {
       // 想要发送的人的名字
       name: "东华",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
