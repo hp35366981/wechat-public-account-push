@@ -30,7 +30,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oEWKd5_pfNvGxdI6M_luNNcEK130",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "Wue80GrtY1nAi5a4tam4FDxZF59WNx9pwcBc06LMpANnu8",
+      useTemplateId: "pdGliiJj0W1Zu77dq50X2K7qwexDxxSVLjSG-VyZGgk",
       // 所在省份
       province: "甘肃",
       // 所在城市
@@ -154,7 +154,7 @@ export const config = {
 
   // 好文节选的内容类型
   // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-  LITERARY_PREFERENCE: ""
+  LITERARY_PREFERENCE: "其他"
 
 
 }
